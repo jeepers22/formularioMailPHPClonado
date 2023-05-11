@@ -8,7 +8,7 @@ $mensaje = $_POST['mensaje'];
 //echo $correo . " " . $nombre . " " . $mensaje;
 
 
-$destinatario = "TUEMAIL";
+$destinatario = "maxizero@gmail.com";
 $asunto = "Envio de correo de prueba con PHP"; 
 $cuerpo = '
     <html> 
